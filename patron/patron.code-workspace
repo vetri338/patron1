@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Users/vetri/Desktop/patron"
+		},
+		{
+			"path": "../../Users/vetri/Desktop"
+		},
+		{
+			"path": "../../Users/vetri/Desktop/new"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}

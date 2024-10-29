@@ -1,0 +1,12 @@
+.Item{
+    width: 80%;
+    margin: auto;
+    height: auto;
+    box-shadow: 1px 0px 5px grey;
+    padding: 10px;
+}
+
+.title, .desc, .btns{
+    display: flex;
+    justify-content: center;
+}
